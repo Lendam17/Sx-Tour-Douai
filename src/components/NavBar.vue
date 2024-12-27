@@ -28,7 +28,7 @@ onUnmounted(() => {
         </div>
         
         <div class="hidden md:flex items-center space-x-8">
-          <router-link to="/" class="nav-link">Accueiltest</router-link>
+          <router-link to="/" class="nav-link">TestMenu</router-link>
           <router-link to="/tickets" class="nav-link">Tickets</router-link>
           <router-link to="/contact" class="nav-link">Contact</router-link>
         </div>
